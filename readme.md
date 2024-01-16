@@ -1,6 +1,10 @@
 # HTML to NEXT.js Peoject
 
-I had made this project to prectice me skills by converting HTML website to Next.js Project.
+I had made this project to prectice me skills by converting HTML website to Next.js Project.\
+\
+**HTML Project** *(Deployed)*:`https://explore-skill-html-project.netlify.app/`
+
+**Next.js Project** *(Not-Deployed yet)*:`https://`
 
 ---
 ## Html website:
