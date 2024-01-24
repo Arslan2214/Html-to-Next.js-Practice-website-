@@ -4,7 +4,7 @@ I had made this project to prectice me skills by converting HTML website to Next
 \
 **HTML Project** *(Deployed)*:`https://explore-skill-html-project.netlify.app/`
 
-**Next.js Project** *(soon)*:`https://`
+**Next.js Project** *(soon)*:`http://`
 
 ---
 ## Html website:
