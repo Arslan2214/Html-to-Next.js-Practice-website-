@@ -21,3 +21,4 @@ That will be Updated soon. But Next features used here are:
 - `src` Directry (No)
 
 With these settings our app is **Good To GO !**
+Both websites are hosted and ready to checkout performance, But due to variation between different hosting services. There is difference in performace that cannot be judged.
